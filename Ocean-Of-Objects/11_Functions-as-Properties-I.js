@@ -1,4 +1,5 @@
-// JavaScript Road Trip Part 3 Level 4 Challenge 11 - Functions as Properties I
+// JavaScript Road Trip Part 3 Level 4 Challenge 11
+// Functions as Properties I
 // http://javascript-roadtrip-part3.codeschool.com/levels/4/challenges/11
 
 var superBlinders = [ ["Firestorm", 4000], ["Solar Death Ray", 6000], ["Supernova", 12000] ];
