@@ -1,4 +1,5 @@
-// JavaScript Road Trip Part 3 Level 4 Challenge 9 - Man your Bulb Stations!
+// JavaScript Road Trip Part 3 Level 4 Challenge 9
+// Man your Bulb Stations!
 // http://javascript-roadtrip-part3.codeschool.com/levels/4/challenges/9
 
 // I try to use 2 different way to challenge myself.
