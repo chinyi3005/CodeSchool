@@ -1,4 +1,5 @@
-// JavaScript Road Trip Part 3 Level 4 Challenge 12 - Calling Function Properties I
+// JavaScript Road Trip Part 3 Level 4 Challenge
+// Calling Function Properties I
 // http://javascript-roadtrip-part3.codeschool.com/levels/4/challenges/12
 
 var superBlinders = [ ["Firestorm", 4000], ["Solar Death Ray", 6000], ["Supernova", 12000] ];
