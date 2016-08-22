@@ -1,4 +1,5 @@
-// JavaScript Road Trip Part 3 Level 4 Challenge 14 - Calling Function Properties II
+// JavaScript Road Trip Part 3 Level 4 Challenge 14
+// Calling Function Properties II
 // http://javascript-roadtrip-part3.codeschool.com/levels/4/challenges/14
 
 lighthouseRock.addBulb = function(name, wattage) {
